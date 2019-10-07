@@ -1,3 +1,3 @@
 # GitCommands
 Exploring git a nd its commands
-Different f=git commands and there purpose
+Different types of git commands and there purpose
